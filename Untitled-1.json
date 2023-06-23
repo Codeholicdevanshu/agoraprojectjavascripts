@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Biomass",
+        "value": "3.9508743749999997"
+    },
+    {
+        "id": 2,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Dam Hydro",
+        "value": "0.110445"
+    },
+    {
+        "id": 3,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Geothermal",
+        "value": "0.014338000000000002"
+    },
+    {
+        "id": 4,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Grid emission factor",
+        "value": "417.8368548222726"
+    },
+    {
+        "id": 5,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Hard Coal",
+        "value": "1.4494025"
+    },
+    {
+        "id": 6,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Hydro",
+        "value": "2.148774125"
+    },
+    {
+        "id": 7,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Lignite",
+        "value": "6.37897025"
+    },
+    {
+        "id": 8,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Natural Gas",
+        "value": "9.8949905"
+    },
+    {
+        "id": 9,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Non-renewable waste",
+        "value": "0.49544987500000004"
+    },
+    {
+        "id": 10,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Nuclear",
+        "value": "0"
+    },
+    {
+        "id": 11,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Oil",
+        "value": "0.45136012499999995"
+    },
+    {
+        "id": 12,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Other",
+        "value": "1.451672625"
+    },
+    {
+        "id": 13,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Other fossil fuel",
+        "value": "0.30387737500000006"
+    },
+    {
+        "id": 14,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Other renewables",
+        "value": "0.186647"
+    },
+    {
+        "id": 15,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Pumped storage generation",
+        "value": "0.29653125"
+    },
+    {
+        "id": 16,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Run-of-River Hydro",
+        "value": "2.0383288750000004"
+    },
+    {
+        "id": 17,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Solar",
+        "value": "1.426130125"
+    },
+    {
+        "id": 18,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Total conventional power plant",
+        "value": "19.471566499999998"
+    },
+    {
+        "id": 19,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Total electricity demand",
+        "value": "46.415446875"
+    },
+    {
+        "id": 20,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Total grid emission",
+        "value": "13541.361749999998"
+    },
+    {
+        "id": 21,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Wind offshore",
+        "value": "1.1031987499999998"
+    },
+    {
+        "id": 22,
+        "date_id": "2023-06-08 00:00:00",
+        "generation": "Wind onshore",
+        "value": "4.4322437500000005"
+    }
+]
